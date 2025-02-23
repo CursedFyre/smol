@@ -41,4 +41,4 @@ print(" ")
 
 
 
-piss=int(input("Go Away"))
+pss=int(input("Go Away"))
